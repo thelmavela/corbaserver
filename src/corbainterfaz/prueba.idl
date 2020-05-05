@@ -1,0 +1,9 @@
+module corba1{
+    interface prueba{
+
+    string generar(in string numero);
+
+};
+
+
+};
